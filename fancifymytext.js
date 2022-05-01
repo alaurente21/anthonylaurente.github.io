@@ -16,7 +16,7 @@ function big() {
 function bold() {
   var text = document.getElementById("textinput");
   text.style.fontWeight = "bold";
-  text.style.color = "red";
+  text.style.color = "blue";
   text.style.textDecoration = "underline";
 }
 
