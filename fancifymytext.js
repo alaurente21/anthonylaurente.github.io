@@ -1,6 +1,6 @@
 /* Anthony Laurente CSC196W */
 
 // Alert
-function alertz() {
+function alert() {
   alert("Hello World!");
 }
