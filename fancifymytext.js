@@ -7,13 +7,13 @@ function alert() {
 */
 
 // Bigger function
-function Big() {
+function big() {
   var text = document.getElementById("textinput");
   text.style.fontSize = "30pt";
 }
 
 // Bold function 
-function Bold() {
+function bold() {
   var text = document.getElementById("textinput");
   text.style.fontWeight = "bold";
   text.style.color = "red";
@@ -21,7 +21,7 @@ function Bold() {
 }
 
 // BoringBetty Function
-function Boring() {
+function boring() {
   var text = document.getElementById("textinput");
   text.style.fontSize = "initial";
   text.style.fontWeight = "normal";
@@ -31,7 +31,7 @@ function Boring() {
 
 
 // Moo function
-function Moo() {
+function moo() {
   var suffix = '-Moo',
   txtInput = document.getElementById("textinput");
   txtInput.style.textTransform = "uppercase";
